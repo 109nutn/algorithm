@@ -1,11 +1,8 @@
 ## 109 台南大學 數位系 演算法
 
-\begin{table}[]
-\begin{tabular}{|l|l|l|l|l|}
-\hline
-       & Slides & Assignment & Link & Reference \\ \hline
-Week 1 &        &            &      &           \\ \hline
-Week 2 &        &            &      &           \\ \hline
-Week 3 &        &            &      &           \\ \hline
-\end{tabular}
-\end{table}
+
+|       | Slides                                                                                                    | Assessments | Reference | Link |
+|-------|-----------------------------------------------------------------------------------------------------------|-------------|-----------|------|
+| Week1 | [Course Introduction](https://drive.google.com/file/d/1FzLF0SVNnJKjHHEAW4tE3bUnIFnNeOZ3/view?usp=sharing) |             |           |      |
+| Week2 |                                                                                                           |             |           |      |
+| Week3 |                                                                                                           |             |           |      |
