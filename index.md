@@ -5,4 +5,4 @@
 |-------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------|-----------|------|
 | Week1 | [Course Introduction](https://drive.google.com/file/d/1FzLF0SVNnJKjHHEAW4tE3bUnIFnNeOZ3/view?usp=sharing) |                                                      |           |      |
 | Week2 | [Sorting algorithm](https://drive.google.com/file/d/1G77-RFYMUxFSC_87kefMOy4WMdk7QFJv/view?usp=sharing)   | [Assessments-1](https://forms.gle/QKvEAp1DZ6Ts4vzeA) |           |      |
-| Week3 |                                                                                                           |                                                      |           |      |
+| Week3 | [Time Complexity](https://drive.google.com/file/d/1QurZMw-m30U6uXHH0AEy2pnJVirzKoCW/view?usp=sharing)                                                                                                             |                                                      |           |      |
