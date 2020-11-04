@@ -9,3 +9,5 @@
 | Week4 | [Time&Space Complexity](https://drive.google.com/file/d/10VdOUyr5U-L4HbFiRkZ_y2SQO2foXPij/view?usp=sharing)   | 
 | Week5 | [Search Algorithm](https://drive.google.com/file/d/1xmEmWP7BmDzTbxID72f0bf3u4_VxejZ8/view?usp=sharing)                                                   
 | Week6 | [Search Algorithm](https://drive.google.com/file/d/1QtR5pgKrV0L49Cs_8DPQnHlXu4yZJTcw/view?usp=sharing)   |   
+| Week7 | 停課|                                                  
+| Week8 | [Divide-and-Conquer](https://drive.google.com/file/d/1nYFHR2PuQKyqGzYOFcHG9speG-zWdi4G/view?usp=sharing)   |   
