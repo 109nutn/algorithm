@@ -11,3 +11,5 @@
 | Week6 | [Search Algorithm](https://drive.google.com/file/d/1QtR5pgKrV0L49Cs_8DPQnHlXu4yZJTcw/view?usp=sharing)   |   
 | Week7 | 停課|                                                  
 | Week8 | [Divide-and-Conquer](https://drive.google.com/file/d/1nYFHR2PuQKyqGzYOFcHG9speG-zWdi4G/view?usp=sharing)   |   
+| Week9 | 期中考複習|   
+| Week10 | [期中考實作](https://drive.google.com/file/d/114pSvHsYD7doh9Sk9PBHr33LQTcWP92y/view?usp=sharing)   |   
