@@ -16,4 +16,4 @@
 | Week11 | 線上影片_待補|   
 | Week12 | [Greedy and Dynamic Programming](https://drive.google.com/file/d/1HI_4cDgWTMb7uLE_XoCH9UeqvB-K1K4Z/view?usp=sharing)   | 
 | Week13 | [Dynamic Programming](https://drive.google.com/file/d/1DMaV7p6xnuqeweR1CNR6Vk2I68rvDfMG/view?usp=sharing)   |
-| Week14 | [NP-Complete](https://drive.google.com/file/d/1JwyJ_9-k-o9BfsEkeE-MTMidKJ88nkN7/view?usp=sharing)   |
+| Week14 | [NP-Complete](https://drive.google.com/file/d/17yP8Mp-7JOh0lNZYa43WRD4ky5p6C83b/view?usp=sharing)   |
